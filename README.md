@@ -1,5 +1,5 @@
 # Excel-VBA-Projects
-This repository a portfolio of my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem, automate a task, or provide a useful tool for data analysis and manipulation within the Excel environment.
+This is a portfolio of my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem, automate a task, or provide a useful tool for data analysis and manipulation within the Excel environment.
 
 ## How to Use
 Each project is packaged as a .ZIP file. Inside, you'll find a **README.txt** with specific instructions and the Excel workbook (.xlsm) itself. To use a tool, simply download the .ZIP, extract the contents, and open the .xlsm file in Microsoft Excel. Be sure to enable macros when prompted to allow the VBA code to run.
