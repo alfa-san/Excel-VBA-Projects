@@ -1,4 +1,6 @@
 # Excel-VBA-Projects
+Hi there!
+
 This is a portfolio of my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem, automate a task, or provide a useful tool for data analysis and manipulation within the Excel environment.
 
 ## How to Use
