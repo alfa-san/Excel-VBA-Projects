@@ -9,7 +9,7 @@ This serves as a portfolio for my personal projects developed using **Microsoft 
 
 ## Projects
 
-### 🗂️ Centralized Data Organizer
+### 🗂️ [Centralized Data Organizer](https://github.com/alfa-san/Centralized-Data-Organizer)
 A modular Excel-VBA application built in the Microsoft 365 VBA environment for managing dynamic categories and records.
 
 **Business Problem**: The need for a flexible, user-friendly tool to manage structured data with customizable fields and intuitive record handling—all within Excel.
