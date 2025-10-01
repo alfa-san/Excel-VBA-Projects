@@ -1,12 +1,14 @@
 # Excel-VBA-Projects
+
 Hi there!
 
-This is a portfolio of my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem, automate a task, or provide a useful tool for data analysis and manipulation within the Excel environment.
+This serves as a portfolio for my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem: to automate a task, or to provide a useful tool for data analysis and manipulation within the Excel environment.
 
-## How to Use
-Each project is packaged as a .ZIP file. Inside, you'll find a **README.txt** with specific instructions and the Excel workbook (.xlsm) itself. To use a tool, simply download the .ZIP, extract the contents, and open the .xlsm file in Microsoft Excel. Be sure to enable macros when prompted to allow the VBA code to run.
+> 📦 Note: The **Centralized Data Organizer** has been moved to its own dedicated repository for better versioning and documentation.  
+> 👉 [View it here](https://github.com/alfa-san/Centralized-Data-Organizer)
 
 ## Projects
+
 ### 🗂️ Centralized Data Organizer
 A modular Excel-VBA application built in the Microsoft 365 VBA environment for managing dynamic categories and records.
 
