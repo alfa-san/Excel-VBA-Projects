@@ -4,8 +4,8 @@ Hi there!
 
 This serves as a portfolio for my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem: to automate a task, or to provide a useful tool for data analysis and manipulation within the Excel environment.
 
-> 📦 Note: The **Centralized Data Organizer** has been moved to its own dedicated repository for better versioning and documentation.  
-> 👉 [View it here](https://github.com/alfa-san/Centralized-Data-Organizer)
+> 📦 Note: The **Centralized Data Organizer** and **Real-Time Currency Converter** have been moved to their own dedicated repository for better versioning and documentation.  
+> 👉 Project titles are hyperlinked to each repo.
 
 ## Projects
 
@@ -32,7 +32,7 @@ A modular Excel-VBA application built in the Microsoft 365 VBA environment for m
 - User Experience Design: Placeholder logic, visual cues, and modular navigation.
 - Documentation: README, changelog, and commit strategy for version 
 
-### 💲 Real-Time Currency Converter
+### 💲 [Real-Time Currency Converter](https://github.com/alfa-san/Real-Time-Currency-Converter)
 An advanced Excel-VBA tool designed for real-time currency conversion. It features a user-friendly interface powered by a custom VBA User Form.
 
 **Business Problem:**
@@ -50,4 +50,4 @@ The need for a reliable tool to convert currency using real-time and historical 
 - Excel Functions: Utilizing various Excel formulas and functions to support calculations.
 
 ---
-<sup>a</sup>_with limitations_
+<sup>a</sup>_with limitations: more details in [README.md](https://github.com/alfa-san/Real-Time-Currency-Converter/blob/main/README.md)_
