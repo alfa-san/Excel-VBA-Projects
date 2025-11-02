@@ -4,15 +4,36 @@ Hi there!
 
 This serves as a portfolio for my personal projects developed using **Microsoft Excel** and **Excel VBA (Visual Basic for Applications)**. Each project is designed to solve a specific problem: to automate a task, or to provide a useful tool for data analysis and manipulation within the Excel environment.
 
-> 📦 Note: The **Centralized Data Organizer** and **Real-Time Currency Converter** have been moved to their own dedicated repository for better versioning and documentation.  
-> 👉 Project titles are hyperlinked to each repo.
-
 ## Projects
+
+### 🐖 [Pig Farm Manager](https://github.com/alfa-san/Pig-Farm-Manager) (*Work-In-Progress*)
+A macro-enabled workbook designed to help manage sow records, litters, expenses, and sales on a pig farm. Built for real-world use by family members, it simplifies daily and weekly farm tasks.
+
+**Business Problem:**
+The need for a simple, Excel-based system to track pig lineage, manage sow records, and log changes reliably.
+
+**Key Features (for now):**
+- Sow Input Form: Add, update, and delete sow records with automatic field population.
+- Lineage Tracking: Select parent sows and litters with dynamic ComboBox logic.
+- Change Logging: Every update is recorded in a hidden sheet with full metadata and undo/redo support.
+- Calendar Integration: Uses [Trevor Eyre’s Excel Date Picker](https://trevoreyre.com/portfolio/excel-datepicker/) for easy date entry.
+- Export Logs: Automatically saves change history to timestamped `.txt` files for traceability.
+
+**Features to Add**
+- Litter Input Form
+- Expense Input Form
+- Sales Input Form
+- Dashboard and Visualizations
+
+**Skills Used:**
+- VBA Architecture: Modular form logic, change tracking engine, and undo/redo stack.
+- UI/UX Design: ComboBox behavior, dynamic labels, and calendar buttons.
+- Documentation: README, changelog, and version-locking via public constants.
 
 ### 🗂️ [Centralized Data Organizer](https://github.com/alfa-san/Centralized-Data-Organizer)
 A modular Excel-VBA application built in the Microsoft 365 VBA environment for managing dynamic categories and records.
 
-**Business Problem**: The need for a flexible, user-friendly tool to manage structured data with customizable fields and intuitive record handling—all within Excel.
+**Business Problem:** The need for a flexible, user-friendly tool to manage structured data with customizable fields and intuitive record handling—all within Excel.
 
 **Key Features**:
 - Category Management: Add or delete up to 12 custom categories.
@@ -48,6 +69,3 @@ The need for a reliable tool to convert currency using real-time and historical 
 - Data Automation: Automating data queries to external sources.
 - Data Visualization: Creating and manipulating charts dynamically within Excel.
 - Excel Functions: Utilizing various Excel formulas and functions to support calculations.
-
----
-<sup>a</sup>_with limitations: more details in [README.md](https://github.com/alfa-san/Real-Time-Currency-Converter/blob/main/README.md)_
